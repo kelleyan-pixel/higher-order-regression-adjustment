@@ -107,11 +107,6 @@ ordering: `(X, X², W, WX, Y, XY, WY)`, extended for IREG by `(X²W, XWY)`.
 See `requirements.txt`: SymPy and NumPy (the latter only for
 `examples/verify_moments.py`).
 
-## Extending this code
-
-Not yet included, but a natural next addition: the Monte Carlo rate
-tests and level tests from Appendix A.9.
-
 ## Citation
 
 If you use this code, please cite the paper:
